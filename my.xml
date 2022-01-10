@@ -132,6 +132,7 @@
 <event	start="Jan 01	2016	00:00:00 GMT"	title="	シン・ゴジラ	">	シン・ゴジラ	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	title="	Kubernetes v1.5.0	">	Kubernetes v1.5.0	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	title="	Kubernetes v1.6.0	">	Kubernetes v1.6.0	</event>
+<event	start="Jan 01	2016	00:00:00 GMT"	title="	Raspberry Pi 3 Model B	">	Raspberry Pi 3 Model B	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	title="	Kubernetes v1.7.0	">	Kubernetes v1.7.0	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	title="	Kubernetes v1.8.0	">	Kubernetes v1.8.0	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	title="	Kubernetes v1.9.0	">	Kubernetes v1.9.0	</event>
@@ -142,6 +143,7 @@
 <event	start="Jan 01	2018	00:00:00 GMT"	title="	Kubernetes v1.11.0	">	Kubernetes v1.11.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	title="	Kubernetes v1.12.0	">	Kubernetes v1.12.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	title="	Kubernetes v1.13.0	">	Kubernetes v1.13.0	</event>
+<event	start="Jan 01	2018	00:00:00 GMT"	title="	M5Stack Gray 日本発売	">	M5Stack Gray 日本発売	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	Kubernetes v1.14.0	">	Kubernetes v1.14.0	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	Kubernetes v1.15.0	">	Kubernetes v1.15.0	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	Kubernetes v1.16.0	">	Kubernetes v1.16.0	</event>
@@ -149,15 +151,17 @@
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	RakuChord通販	">	RakuChord通販	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	Kubernetes実践入門 共著	">	Kubernetes実践入門 共著	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	title="	みんなのDocker/Kubernetes 共著	">	みんなのDocker/Kubernetes 共著	</event>
+<event	start="Jan 01	2019	00:00:00 GMT"	title="	RaspberryPi4	">	RaspberryPi4	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	Kubernetes v1.18.0	">	Kubernetes v1.18.0	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	Kubernetes v1.19.0	">	Kubernetes v1.19.0	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	HACHIBAR通販（PCBA）	">	HACHIBAR通販（PCBA）	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	娘誕生	">	娘誕生	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	育休	">	育休	</event>
 <event	start="Jan 01	2020	00:00:00 GMT"	title="	CNC購入	">	CNC購入	</event>
+<event	start="Jan 01	2020	00:00:00 GMT"	title="	新型コロナウィルス	">	新型コロナウィルス	</event>
+<event	start="Jan 01	2021	00:00:00 GMT"	title="	自作キーボード初設計	">	自作キーボード初設計	</event>
+<event	start="Jan 01	2021	00:00:00 GMT"	title="	インスタコード発売	">	インスタコード発売	</event>
 								
 								
 								
-								
-								
-</data>								
+</data>
