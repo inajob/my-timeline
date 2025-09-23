@@ -104,6 +104,7 @@
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	ゲーム	"	title="	ドラゴンクエストⅨ	">	ドラゴンクエストⅨ	</event>
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	自分	"	title="	Arduino勉強	">	Arduino勉強	</event>
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	アニメ	"	title="	けいおん!	">	けいおん!	</event>
+<event	start="Jan 01	2009	00:00:00 GMT"	category="	アニメ	"	title="	化物語	">	化物語	</event>
 <event	start="Jan 01	2010	00:00:00 GMT"	category="	自分	"	title="	入社	">	入社	</event>
 <event	start="Jan 01	2010	00:00:00 GMT"	category="	IT	"	title="	Python2.7	">	Python2.7	</event>
 <event	start="Jan 01	2010	00:00:00 GMT"	category="	IT	"	title="	iPhone 4	">	iPhone 4	</event>
@@ -116,12 +117,19 @@
 <event	start="Jan 01	2011	00:00:00 GMT"	category="	IT	"	title="	JavaSE 7	">	JavaSE 7	</event>
 <event	start="Jan 01	2012	00:00:00 GMT"	category="	IT	"	title="	IE 10	">	IE 10	</event>
 <event	start="Jan 01	2012	00:00:00 GMT"	category="	IT	"	title="	iPhone 5	">	iPhone 5	</event>
+<event	start="Jan 01	2012	00:00:00 GMT"	category="	アニメ	"	title="	人類は衰退しました	">	人類は衰退しました	</event>
+<event	start="Jan 01	2012	00:00:00 GMT"	category="	アニメ	"	title="	ヨルムンガンド 	">	ヨルムンガンド 	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	自分	"	title="	自作携帯ゲーム機	">	自作携帯ゲーム機	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	Debian wheezy	">	Debian wheezy	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	IE 11	">	IE 11	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	enchantMOON発売	">	enchantMOON発売	</event>
+<event	start="Jan 01	2013	00:00:00 GMT"	category="	アニメ	"	title="	キルラキル	">	キルラキル	</event>
 <event	start="Jan 01	2014	00:00:00 GMT"	category="	IT	"	title="	iPhone 6	">	iPhone 6	</event>
 <event	start="Jan 01	2014	00:00:00 GMT"	category="	IT	"	title="	Java SE 8	">	Java SE 8	</event>
+<event	start="Jan 01	2014	00:00:00 GMT"	category="	アニメ	"	title="	ノーゲーム・ノーライフ	">	ノーゲーム・ノーライフ	</event>
+<event	start="Jan 01	2014	00:00:00 GMT"	category="	アニメ	"	title="	ばらかもん
+	">	ばらかもん
+	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	基板発注	">	基板発注	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	子会社出向	">	子会社出向	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	引っ越し	">	引っ越し	</event>
@@ -139,12 +147,14 @@
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.9.0	">	Kubernetes v1.9.0	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	自分	"	title="	引っ越し	">	引っ越し	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	自分	"	title="	3Dプリンタ購入	">	3Dプリンタ購入	</event>
+<event	start="Jan 01	2017	00:00:00 GMT"	category="	アニメ	"	title="	けものフレンズ 	">	けものフレンズ 	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	自分	"	title="	RakuChordキット販売	">	RakuChordキット販売	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.10.0	">	Kubernetes v1.10.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.11.0	">	Kubernetes v1.11.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.12.0	">	Kubernetes v1.12.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.13.0	">	Kubernetes v1.13.0	</event>
 <event	start="Jan 01	2018	00:00:00 GMT"	category="	IT	"	title="	M5Stack Gray 日本発売	">	M5Stack Gray 日本発売	</event>
+<event	start="Jan 01	2018	00:00:00 GMT"	category="	アニメ	"	title="	はたらく細胞	">	はたらく細胞	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.14.0	">	Kubernetes v1.14.0	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.15.0	">	Kubernetes v1.15.0	</event>
 <event	start="Jan 01	2019	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.16.0	">	Kubernetes v1.16.0	</event>
@@ -168,13 +178,16 @@
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	自分	"	title="	fab-wiki開始	">	fab-wiki開始	</event>
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	自分	"	title="	300円テトリス改造	">	300円テトリス改造	</event>
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	IT	"	title="	ChatGPT	">	ChatGPT	</event>
+<event	start="Jan 01	2022	00:00:00 GMT"	category="	アニメ	"	title="	パリピ孔明	">	パリピ孔明	</event>
 <event	start="Jan 01	2023	00:00:00 GMT"	category="	自分	"	title="	ポッドキャスト開始	">	ポッドキャスト開始	</event>
 <event	start="Jan 01	2023	00:00:00 GMT"	category="	自分	"	title="	Discordサーバー「inajob川」開始	">	Discordサーバー「inajob川」開始	</event>
+<event	start="Jan 01	2023	00:00:00 GMT"	category="	アニメ	"	title="	葬送のフリーレン	">	葬送のフリーレン	</event>
 <event	start="Jan 01	2024	00:00:00 GMT"	category="	自分	"	title="	マンション理事長	">	マンション理事長	</event>
+<event	start="Jan 01	2024	00:00:00 GMT"	category="	アニメ	"	title="	チ。-地球の運動について-	">	チ。-地球の運動について-	</event>
 <event	start="Jan 01	2025	00:00:00 GMT"	category="	自分	"	title="	サバティカル休暇(3ヶ月)	">	サバティカル休暇(3ヶ月)	</event>
 <event	start="Jan 01	2025	00:00:00 GMT"	category="	IT	"	title="	Gemini CLI	">	Gemini CLI	</event>
 											
 											
 											
 											
-</data>																														
+</data>											
