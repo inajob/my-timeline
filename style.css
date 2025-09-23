@@ -12,6 +12,27 @@ h1 {
     margin-bottom: 20px;
 }
 
+#column-headers {
+    display: flex;
+    justify-content: center; /* Center the items */
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.header-jibu, .header-other {
+    width: calc(50% - 30px); /* Same width as event containers */
+}
+
+.header-jibu {
+    text-align: right;
+    padding-right: 20px; /* Add some space from the center */
+}
+
+.header-other {
+    text-align: left;
+    padding-left: 20px; /* Add some space from the center */
+}
+
 #timeline {
     position: relative;
     padding: 20px 0;
