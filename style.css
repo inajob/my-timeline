@@ -82,6 +82,19 @@ h1 {
     font-weight: bold;
 }
 
+.year::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0px; /* Adjust for border triangle */
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 10px solid #ccc;
+}
+
 .events-container {
     width: calc(50% - 30px);
     display: flex;
