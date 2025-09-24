@@ -8,6 +8,7 @@
 <event	start="Jan 01	1990	00:00:00 GMT"	category="	ゲーム	"	title="	スーパーファミコン	">	スーパーファミコン	</event>
 <event	start="Jan 01	1991	00:00:00 GMT"	category="	アニメ	"	title="	思ひでポロポロ	">	思ひでポロポロ	</event>
 <event	start="Jan 01	1992	00:00:00 GMT"	category="	自分	"	title="	小学校入学	">	小学校入学	</event>
+<event	start="Jan 01	1995	00:00:00 GMT"	category="	自分	"	title="	コンピュータクラブ	">	コンピュータクラブ	</event>
 <event	start="Jan 01	1992	00:00:00 GMT"	category="	アニメ	"	title="	紅の豚	">	紅の豚	</event>
 <event	start="Jan 01	1993	00:00:00 GMT"	category="	漫画	"	title="	魔法陣グルグル1巻	">	魔法陣グルグル1巻	</event>
 <event	start="Jan 01	1993	00:00:00 GMT"	category="	ゲーム	"	title="	Play Station	">	Play Station	</event>
@@ -39,6 +40,7 @@
 <event	start="Jan 01	1997	00:00:00 GMT"	category="	アニメ	"	title="	もののけ姫	">	もののけ姫	</event>
 <event	start="Jan 01	1997	00:00:00 GMT"	category="	IT	"	title="	IE4	">	IE4	</event>
 <event	start="Jan 01	1998	00:00:00 GMT"	category="	自分	"	title="	中学校入学	">	中学校入学	</event>
+<event	start="Jan 01	1998	00:00:00 GMT"	category="	自分	"	title="	コンピュータ部	">	コンピュータ部	</event>
 <event	start="Jan 01	1998	00:00:00 GMT"	category="	IT	"	title="	USB 1.1	">	USB 1.1	</event>
 <event	start="Jan 01	1998	00:00:00 GMT"	category="	ゲーム	"	title="	ゲームボーイカラー	">	ゲームボーイカラー	</event>
 <event	start="Jan 01	1998	00:00:00 GMT"	category="	IT	"	title="	iMac	">	iMac	</event>
@@ -67,6 +69,7 @@
 <event	start="Jan 01	2000	00:00:00 GMT"	category="	IT	"	title="	Blender 2.0	">	Blender 2.0	</event>
 <event	start="Jan 01	2000	00:00:00 GMT"	category="	IT	"	title="	Windows XP	">	Windows XP	</event>
 <event	start="Jan 01	2001	00:00:00 GMT"	category="	自分	"	title="	高校入学	">	高校入学	</event>
+<event	start="Jan 01	2001	00:00:00 GMT"	category="	自分	"	title="	コンピュータ同好会	">	コンピュータ同好会	</event>
 <event	start="Jan 01	2001	00:00:00 GMT"	category="	IT	"	title="	Delphi 6	">	Delphi 6	</event>
 <event	start="Jan 01	2001	00:00:00 GMT"	category="	IT	"	title="	Python 2.2	">	Python 2.2	</event>
 <event	start="Jan 01	2001	00:00:00 GMT"	category="	IT	"	title="	HSP 2.55	">	HSP 2.55	</event>
@@ -81,6 +84,7 @@
 <event	start="Jan 01	2002	00:00:00 GMT"	category="	IT	"	title="	Python 2.3	">	Python 2.3	</event>
 <event	start="Jan 01	2003	00:00:00 GMT"	category="	雑誌	"	title="	ベーマガ休刊	">	ベーマガ休刊	</event>
 <event	start="Jan 01	2004	00:00:00 GMT"	category="	自分	"	title="	大学入学	">	大学入学	</event>
+<event	start="Jan 01	2004	00:00:00 GMT"	category="	自分	"	title="	X680x0同好会	">	X680x0同好会	</event>
 <event	start="Jan 01	2004	00:00:00 GMT"	category="	IT	"	title="	Python 2.4	">	Python 2.4	</event>
 <event	start="Jan 01	2004	00:00:00 GMT"	category="	IT	"	title="	J2SE 5.0	">	J2SE 5.0	</event>
 <event	start="Jan 01	2004	00:00:00 GMT"	category="	アニメ	"	title="	ハウルの動く城	">	ハウルの動く城	</event>
