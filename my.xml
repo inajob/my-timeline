@@ -113,6 +113,7 @@
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	自分	"	title="	Arduino勉強	">	Arduino勉強	</event>
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	アニメ	"	title="	けいおん!	">	けいおん!	</event>
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	アニメ	"	title="	化物語	">	化物語	</event>
+<event	start="Jan 01	2009	00:00:00 GMT"	category="	IT	"	title="	Google Developer Day 2009	">	Google Developer Day 2009	</event>
 <event	start="Jan 01	2009	00:00:00 GMT"	category="	自分	"	title="	Make: Tokyo Meeting04 出展	">	Make: Tokyo Meeting04 出展	</event>
 <event	start="Jan 01	2010	00:00:00 GMT"	category="	自分	"	title="	入社	">	入社	</event>
 <event	start="Jan 01	2010	00:00:00 GMT"	category="	IT	"	title="	Python2.7	">	Python2.7	</event>
@@ -139,11 +140,14 @@
 <event	start="Jan 01	2014	00:00:00 GMT"	category="	アニメ	"	title="	ばらかもん
 	">	ばらかもん
 	</event>
+<event	start="Jan 01	2014	00:00:00 GMT"	category="	IT	"	title="	ESP8266	">	ESP8266	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	基板発注	">	基板発注	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	子会社出向	">	子会社出向	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	引っ越し	">	引っ越し	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	初海外旅行	">	初海外旅行	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	IT	"	title="	Arduboy(入手したのは2016)	">	Arduboy(入手したのは2016)	</event>
+<event	start="Jan 01	2015	00:00:00 GMT"	category="	IT	"	title="	Raspberry Pi 2	">	Raspberry Pi 2	</event>
+<event	start="Jan 01	2015	00:00:00 GMT"	category="	IT	"	title="	Windows 10	">	Windows 10	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	自分	"	title="	Gamebuino Clone作成	">	Gamebuino Clone作成	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	自分	"	title="	入籍	">	入籍	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	アニメ	"	title="	君の名は	">	君の名は	</event>
@@ -151,6 +155,7 @@
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.5.0	">	Kubernetes v1.5.0	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.6.0	">	Kubernetes v1.6.0	</event>
 <event	start="Jan 01	2016	00:00:00 GMT"	category="	IT	"	title="	Raspberry Pi 3 Model B	">	Raspberry Pi 3 Model B	</event>
+<event	start="Jan 01	2016	00:00:00 GMT"	category="	IT	"	title="	ESP32	">	ESP32	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.7.0	">	Kubernetes v1.7.0	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.8.0	">	Kubernetes v1.8.0	</event>
 <event	start="Jan 01	2017	00:00:00 GMT"	category="	IT	"	title="	Kubernetes v1.9.0	">	Kubernetes v1.9.0	</event>
