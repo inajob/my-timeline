@@ -130,6 +130,7 @@
 <event	start="Jan 01	2012	00:00:00 GMT"	category="	アニメ	"	title="	人類は衰退しました	">	人類は衰退しました	</event>
 <event	start="Jan 01	2012	00:00:00 GMT"	category="	アニメ	"	title="	ヨルムンガンド 	">	ヨルムンガンド 	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	自分	"	title="	自作携帯ゲーム機	">	自作携帯ゲーム機	</event>
+<event	start="Jan 01	2013	00:00:00 GMT"	category="	自分	"	title="	社内転職	">	社内転職	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	Debian wheezy	">	Debian wheezy	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	IE 11	">	IE 11	</event>
 <event	start="Jan 01	2013	00:00:00 GMT"	category="	IT	"	title="	enchantMOON発売	">	enchantMOON発売	</event>
@@ -141,6 +142,7 @@
 	">	ばらかもん
 	</event>
 <event	start="Jan 01	2014	00:00:00 GMT"	category="	IT	"	title="	ESP8266	">	ESP8266	</event>
+<event	start="Jan 01	2014	00:00:00 GMT"	category="	自分	"	title="	Raspberry Pi購入	">	Raspberry Pi購入	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	基板発注	">	基板発注	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	子会社出向	">	子会社出向	</event>
 <event	start="Jan 01	2015	00:00:00 GMT"	category="	自分	"	title="	引っ越し	">	引っ越し	</event>
@@ -189,6 +191,7 @@
 <event	start="Jan 01	2021	00:00:00 GMT"	category="	IT	"	title="	インスタコード発売	">	インスタコード発売	</event>
 <event	start="Jan 01	2021	00:00:00 GMT"	category="	自分	"	title="	育児Scrapbox開始	">	育児Scrapbox開始	</event>
 <event	start="Jan 01	2021	00:00:00 GMT"	category="	IT	"	title="	Raspberry Pi Pico 発売	">	Raspberry Pi Pico 発売	</event>
+<event	start="Jan 01	2021	00:00:00 GMT"	category="	IT	"	title="	Windows11	">	Windows11	</event>
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	自分	"	title="	Scrapbox「井戸端」参加	">	Scrapbox「井戸端」参加	</event>
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	自分	"	title="	fab-wiki開始	">	fab-wiki開始	</event>
 <event	start="Jan 01	2022	00:00:00 GMT"	category="	自分	"	title="	300円テトリス改造	">	300円テトリス改造	</event>
